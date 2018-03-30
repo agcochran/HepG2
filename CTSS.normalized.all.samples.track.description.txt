@@ -1,0 +1,2 @@
+track type=bigWig name="HepG2_ENCODE CTSS normalized plus" description="HepG2_ENCODE CTSS normalized (plus strand)" bigDataUrl=HepG2_ENCODE.CTSS.normalized.plus.bw
+track type=bigWig name="HepG2_ENCODE CTSS normalized minus" description="HepG2_ENCODE CTSS normalized (minus strand)" bigDataUrl=HepG2_ENCODE.CTSS.normalized.minus.bw
